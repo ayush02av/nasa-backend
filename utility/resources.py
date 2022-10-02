@@ -1,0 +1,1 @@
+GOTS_PREDICT_MODEL = 'models/data_gots.pkl'
